@@ -1,2 +1,2 @@
 # ZKTeco-TFT-Online-control
-code will be here ASAP :)
+C# code will be here ASAP :)
